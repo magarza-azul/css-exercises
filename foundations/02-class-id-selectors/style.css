@@ -1,10 +1,10 @@
 .pinky {
-    background-color: rgb(216, 124, 124);
+    background-color: hsl(0, 54%, 67%);
     font-family: Verdana, "DejaVu Sans" , sans-serif;
 }
 
 #big-blue {
-    color:rgb(9, 9, 207);
+    color:#0909cf;
     font-size: 36px;
 }
 
