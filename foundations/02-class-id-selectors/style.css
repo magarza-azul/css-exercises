@@ -1,4 +1,13 @@
-p {
+.pinky {
     background-color: rgb(216, 124, 124);
     font-family: Verdana, "DejaVu Sans" , sans-serif;
+}
+
+#big-blue {
+    color:rgb(9, 9, 207);
+    font-size: 36px;
+}
+
+.big-random {
+    font-size: 24px;
 }
